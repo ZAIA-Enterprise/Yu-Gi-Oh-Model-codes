@@ -1,9 +1,5 @@
 {
   "test": {
-    "code": {
-      "m": null,
-      "t": "buffer",
-      "zbase64": "KLUv/WApAe0JAPIPODZAq6YxD4riqCoDSoxHo8I4iq4CxL2qvUkSQoKJ2UG2F/KZiJgQbakFAvKSdF36Fo9+1egmRKZf/7/1qRYhB1ApotWzT7yPCgzVgvZZT3JES1IdhSQ2cjlAMKBlfdi52tVRqjiCm1WSgiLmahclqx8q+hbCBWykUqziSI5GcAc2gQnXaSvpnuJYIQgkE6AS0TDsKx3V1s8CiCXb38KeoyX97GfXzr8wa//FfvsvYRh6LjQ8iv/I736O0ls2GDYnDcaDg1rP9OAqo/AZm5MG83dK38BBbYfpU6tMwvub+ic+KyCwAsGybXP4hzcHaHFPvH7IiGxw7Lpc4mWcWMuMEupaCPk6QDn5E5YcBmyhd84boO8V9IbjADg9oYRrYyFkHEnaQMuQh3zjnBTjcKidkibcHtotf7ZQ4T4B"
-    }
+    "code": "{\"m\":null,\"t\":\"buffer\",\"zbase64\":\"KLUv/WApAf0JAPKPODcwraYxkCwMkDBQ0evvlTGOGhigBURgFJRIJBhq2hWmfdKSsEZC0BG1Ap/u7IgjPpVGtlZ0EyJTY///JaoXpIZRWaI1tFe+EAsNiIyRiutJmmh5qiaSxE4yBwgGtKwOO3fDPEsVR3C1StJRxNwNs2hVREuglXQB3KkUqziSphHcAU6g0nnbUrynONYHAsoEuEy2LPvLR+TrZ4EEo+1/Zd/Rkor2NWznY9m1/2bP/ZkwDEMYHB/Fg8j3fg/UYzoWOiqOBsSz2i/1YGuj8BsdFUfzf1DP4FntR+pZrU3C+8v6Jz4rILACwbJtc/iHNwdocU+8fsiIbHDsulziZZxYy4wS6loI+TpAOfkTlhwGbKF3zhug7xX0huMAOD2hhGtjIWQcSdpAy5CHfOOcFONwqJ2SJtwe2i1/tlDhPgE="}"
   }
 }
